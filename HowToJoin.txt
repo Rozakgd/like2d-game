@@ -1,0 +1,54 @@
+==================================================================================
+🕹️ HOW TO JOIN THE LIKE2D SHOWCASE (WEBSITE & RELEASES) 🕹️
+================================================================================
+
+Want your game to appear on the official Like2D website and be included in the GitHub Releases list? It's super easy! You can join without investing a penny.
+
+You can choose one of the two delivery methods below:
+
+--------------------------------------------------------------------------
+METHOD 1: SEND BUNDLE FILE (.ZIP)
+--------------------------------------------------------------------------
+Suitable for those of you who want your game files directly hosted for free on the Like2D Releases GitHub server (Direct Download).
+
+Steps:
+1. Package your game folder into a .ZIP file.
+2. Make sure the .ZIP file contains the 'Like2D.exe' file, your Luau script file,
+and the game assets (images/audio) needed for immediate play.
+3. Send the .ZIP file to the Super Studio Foundation team via:
+-> Open an ISSUE on this GitHub by attaching the .ZIP file, OR
+-> Contact Abdul Razaq / Nathan Ardyan directly.
+4. Write a brief description of your game using the format at the bottom of this file.
+
+---------------------------------------------------------------------------
+METHOD 2: SEND WEB GAME LINK (ITCH.IO / GAMEJOLT / ETC.)
+--------------------------------------------------------------------------
+Perfect for those of you who already have your own game page on Itch.io or another platform and want to get additional traffic from the official Like2D website.
+
+Steps:
+1. Make sure your Like2D game has been uploaded to your chosen platform (e.g., Itch.io).
+2. Send us the game page link via the GitHub ISSUE menu or contact the Like2D core dev circle.
+3. Write a brief description of your game using the format below.
+
+================================================================================
+📋 GAME INFORMATION FORMAT (MUST BE INCLUDED)
+======================================================================================
+Please include this formatted text when submitting your game (.zip or Link):
+
+Game Name: [Write your game title here]
+Developer: [Your name / GitHub username]
+Game Description: [Short 1-2 sentence explanation of the game's gameplay] [You]
+Send Method: [Enter ".ZIP File" or "Web Link (Itch.io)"]
+Web Link: [Fill in the box if you choose the Web Link method, leave it blank if you send a .zip]
+
+=================================================================================
+💡 WHAT WILL YOU GET?
+==============================================================================
+After we validate your data and run the test:
+1. Your game will be listed directly in the main README.md file.
+2. Your game's .zip file will be uploaded to the GitHub Releases page (if using Method 1).
+3. Your game's banner, name, and download link will be officially displayed on the Like2D Website Landing Page!
+
+We're waiting for your awesome creations using the Like2D framework! 🚀🔥
+- Super Studio Foundation (2026) -
+===========================================================================
