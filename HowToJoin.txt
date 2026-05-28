@@ -17,7 +17,7 @@ Steps:
 and the game assets (images/audio) needed for immediate play.
 3. Send the .ZIP file to the Super Studio Foundation team via:
 -> Open an ISSUE on this GitHub by attaching the .ZIP file, OR
--> Contact Abdul Razaq / Nathan Ardyan directly.
+-> Contact spctacularstudio@gmail.com or strata.tech.dev@gmail.com (We strongly recommend that you send it to the first email because the second email often doesn't work, but if the first email has problems, we recommend that you send it to the second email.).
 4. Write a brief description of your game using the format at the bottom of this file.
 
 ---------------------------------------------------------------------------
@@ -27,7 +27,7 @@ Perfect for those of you who already have your own game page on Itch.io or anoth
 
 Steps:
 1. Make sure your Like2D game has been uploaded to your chosen platform (e.g., Itch.io).
-2. Send us the game page link via the GitHub ISSUE menu or contact the Like2D core dev circle.
+2. Send us the game page link via the GitHub ISSUE menu or Contact spctacularstudio@gmail.com or strata.tech.dev@gmail.com (We strongly recommend that you send it to the first email because the second email often doesn't work, but if the first email has problems, we recommend that you send it to the second email.).
 3. Write a brief description of your game using the format below.
 
 ================================================================================
